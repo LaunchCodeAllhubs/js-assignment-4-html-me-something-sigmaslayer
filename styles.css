@@ -1,1 +1,26 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: teal;
+}
+
+#mainHeading {
+    color: red;
+    font-style: italic;
+}
+
+h1 {
+    background-color: grey;
+    text-align: center;
+}
+
+h3 {
+    padding: 10px;
+    color: orangered;
+}
+
+p.funParagraph {
+    color: green;
+    background-color: black;
+}

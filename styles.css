@@ -1,1 +1,45 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: teal;
+}
+
+.mainContainer {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+#mainHeading {
+    color: red;
+    font-style: italic;
+    font-size: 32px;
+    text-align: center;
+}
+
+.subHeading {
+    margin: 0;
+    color: orangered;
+    font-size: 24px;
+}
+
+.funParagraph {
+    color: green;
+    background-color: black;
+    padding: 15px;
+}
+
+.name {
+    font-size: 40px;
+    text-align: center;
+}
+
+.header {
+    background-color: grey;
+    padding: 10px 0;
+}
+ 
+.footer {
+    text-align: center;
+}
+
